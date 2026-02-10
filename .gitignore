@@ -1,0 +1,16 @@
+# ===== FE (React / Node) =====
+FE/node_modules
+FE/build
+FE/dist
+FE/.env
+
+# ===== BE (.NET) =====
+BE/bin
+BE/obj
+BE/.vs
+BE/appsettings.Development.json
+
+# ===== General =====
+.DS_Store
+*.log
+.env
