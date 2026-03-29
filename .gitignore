@@ -14,3 +14,4 @@ BE/appsettings.Development.json
 .DS_Store
 *.log
 .env
+BE/appsettings.json
